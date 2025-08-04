@@ -47,3 +47,11 @@ A Python script that parses your monthly bank CSV statements, categorizes transa
 
 ```bash
 python finance_manager.py
+```
+📁 File Format
+- Your CSV should have rows formatted as:
+- Date, Transaction Name, Amount
+
+🔗 Links
+- Google Sheets API docs: https://developers.google.com/sheets/api
+- gspread library: https://gspread.readthedocs.io/en/latest/
